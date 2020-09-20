@@ -8,4 +8,4 @@ https://covid19.mathdro.id/api
 
 ## Example
 
-![Covid19Demo](2020-09-20 14.11.11.gif)
+![Covid19Demo](demo.gif)
