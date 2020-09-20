@@ -3,7 +3,11 @@
 }
 
 .card {
-  margin: 0 2% !important;
+  margin: 5px 2% !important;
+}
+
+.card:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
 }
 
 .infected {
@@ -16,6 +20,10 @@
 
 .deaths {
   border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+}
+
+.percents {
+  border-bottom: 10px solid rgba(255, 255, 0, 0.5);
 }
 
 @media (max-width: 770px) {
